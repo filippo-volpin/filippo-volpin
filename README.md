@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @filippo-volpin. I'm a final year student in Economics and Management at the University of Oxford.
-- 👀 I’m interested in Business Strategy and the application of Data Science, Machine Learning, and Artificial Intelligence methods to business problems in several industries. 
-- 🌱 I’m currently learning Econometrics, Time-Series Analysis, Natural Language Processing, and Data Visualization.
+
 - 📰 I have co-authored a paper on NLP investigating biases in large-scale generative language models: ["Bias Out-of-the-Box: An Empirical Analysis of Intersectional Occupational Biases in Popular Generative Language Models"](https://arxiv.org/abs/2102.04130).
 - 💻 Here are some of my most interesting projects*:
     1. creating  an  internal  search-engine  for  (fuzzy)  entity  matching  and  data  deduplication,  using  token vectorisation, TF-IDF, sparse matrices, and cosine similarity
